@@ -1,5 +1,7 @@
 # HTTPS for `localhost`
 
+## https://www.freecodecamp.org/news/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec/
+
 A set of scripts to quickly generate a HTTPS certificate for your local development environment.
 
 ## How-to
